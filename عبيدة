@@ -7,9 +7,9 @@
     "title": "Capcut Pro Now UBDATE v31.0
 0🇮🇳NO VBN",
     "description": "Your app version is too old and no longer supported. Please update to the latest version.",
-    "isForce": false,
-    "isExpired": false,
-    "expiryDate": "2029-09-01",
+    "isForce": true,
+    "isExpired": true,
+    "expiryDate": "2020-09-01",
     "closeButtonText": "Cancel",
     "updateButtonText": "Get Update"
   }
